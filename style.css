@@ -1,0 +1,19 @@
+ul{
+	
+	margin:0;
+	padding:0;
+   background-color: aqua;
+	
+}
+li{
+	 float:left;
+	 display:block;
+	 padding:8px;
+}
+
+	
+
+
+body {
+    background-color:#FFE7C7;
+}
